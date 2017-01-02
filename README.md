@@ -1,2 +1,0 @@
-# ideaJava
-ideaJava
