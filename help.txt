@@ -1,1 +1,8 @@
-Ö±½Ógit push
+1.Create New File
+git add "filename"
+
+2.Commit New File
+git commit -m "FileMessage"
+
+3.Push to Repositories
+git push
